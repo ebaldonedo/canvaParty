@@ -17,14 +17,14 @@ export const artworks: Artwork[] = [
   },
   {
     id: '2',
-    title: 'Dog Fit',
+    title: 'Inmortal Dog',
     artist: 'Adriana I.',
     year: 2022,
     medium: 'photography',
     style: 'contemporary',
     imageUrl: 'http://imgfz.com/i/BrDsN4Z.jpeg',
     description:
-      'A stunning capture of natural light dancing through architectural forms.',
+      'A stunning photograph capturing the essence of a loyal companion in a serene setting.',
     price: 850,
     dimensions: '20" x 20"',
     isAvailable: true,
@@ -156,15 +156,14 @@ export const artworks: Artwork[] = [
   },
   {
     id: '12',
-    title: 'Electric Dreams',
-    artist: 'Zara J',
+    title: 'Dreamscape',
+    artist: 'Paula M.',
     year: 2023,
-    medium: 'digital',
+    medium: 'soul',
     style: 'abstract',
-    imageUrl:
-      'https://images.pexels.com/photos/1183992/pexels-photo-1183992.jpeg?auto=compress&cs=tinysrgb&w=300&h=300',
+    imageUrl: 'http://imgfz.com/i/tNSQHVw.jpeg',
     description:
-      'Digital abstraction exploring the intersection of technology and dreams.',
+      'An ethereal journey through the subconscious, blending colors and forms.',
     price: 1950,
     dimensions: '20" x 20"',
     isAvailable: true,
